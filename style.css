@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
-    .single-color {
+}
+.single-color {
   color: steelblue;
 }
 
@@ -26,6 +27,4 @@ p {
   font-size: 3rem;
   font-weight: bold;
   line-height: 1.1;
-}
-
 }
